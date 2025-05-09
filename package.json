@@ -2,7 +2,7 @@
   "name": "vite-github-pages",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/wintorez/vite-github-pages/",
+  "homepage": "https://wintorez.github.io/vite-github-pages/",
   "type": "module",
   "scripts": {
     "dev": "vite",
